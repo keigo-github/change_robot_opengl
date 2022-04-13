@@ -6,6 +6,7 @@ opene GLを用いたアニメーションの作成
 コマンドに対応した稼働、更新描写、それぞれのパーツに適用されるマテリアルの調整
 床面に草原を表現するテクスチャの割り当てを行った。
 
+
 ![1スクリーンショット 2021-07-27 081102](https://user-images.githubusercontent.com/85817145/139408238-e779c568-8aaa-4380-b3ac-9f29dfa64ce2.png)
 ![2スクリーンショット 2021-07-27 081225](https://user-images.githubusercontent.com/85817145/139408215-3192cdb6-3d0a-481d-a657-a7b2b6e9856f.png)
 ![3スクリーンショット 2021-07-27 081303](https://user-images.githubusercontent.com/85817145/139408223-39eadc4e-f2b4-486a-8dc7-a243c326b170.png)
